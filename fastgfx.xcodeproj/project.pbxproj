@@ -247,7 +247,7 @@
 				};
 			};
 			buildConfigurationList = 649B21262C8D02DE000871FE /* Build configuration list for PBXProject "fastgfx" */;
-			compatibilityVersion = "Xcode 15.0";
+			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
